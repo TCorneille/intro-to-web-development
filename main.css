@@ -17,9 +17,6 @@ html {
   scroll-behavior: smooth;
 }
 
-
-
-
 .hero {
   background-image: url('/images/hero.png');
   height: 500px;
